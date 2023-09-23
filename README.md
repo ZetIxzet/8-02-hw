@@ -16,7 +16,9 @@
 ---
 ### Решение 1
 
-
+![Скриншот-1](https://github.com/ZetIxzet/8-02-hw/blob/main/202154.png)
+![Скриншот-2](https://github.com/ZetIxzet/8-02-hw/blob/main/202206.png)
+![Скриншот-3](https://github.com/ZetIxzet/8-02-hw/blob/main/202223.png)
 
 ---
 
@@ -32,7 +34,8 @@
 ---
 ### Решение 2
 
-
+![Скриншот-4](https://github.com/ZetIxzet/8-02-hw/blob/main/202125.png)
+![Скриншот-5](https://github.com/ZetIxzet/8-02-hw/blob/main/202141.png)
 
 ---
 
@@ -50,6 +53,7 @@
 ---
 ### Решение 3
 
-
+![Скриншот-6](https://github.com/ZetIxzet/8-02-hw/blob/main/202822.png)
+![Скриншот-7](https://github.com/ZetIxzet/8-02-hw/blob/main/202848.png)
 
 ---
